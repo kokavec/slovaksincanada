@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/ontario-1979-fall-leaves-14.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Stopy slávy zaviate časom
+subheading: " Slovenské osobnosti v Kanade"
 mainpitch:
   title: Why Kaldi
   description: >
