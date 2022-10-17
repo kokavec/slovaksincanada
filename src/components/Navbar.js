@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
 import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+import logo from "../img/logo.png";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
@@ -14,8 +14,8 @@ const Navbar = () => {
     >
       <div className="container">
         <div className="navbar-brand">
-          <Link to="/" className="navbar-item" title="Logo">
-            <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+          <Link to="/" className="navbar-item" title="Slovaks in Canada">
+            <img src={logo} alt="Slovaks in Canada" />
           </Link>
           {/* Hamburger menu */}
           <button
@@ -59,7 +59,7 @@ const Navbar = () => {
             </Link>
             </li>
           <li className="navbar-end has-text-centered">
-            <a
+            {/* <a
               className="navbar-item"
               href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
               target="_blank"
@@ -68,7 +68,7 @@ const Navbar = () => {
               <span className="icon">
                 <img src={github} alt="Github" />
               </span>
-            </a>
+            </a> */}
           </li>
         </ul>
       </div>
