@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/toronto-2019-skyline-from-the-east-xom_6348.jpeg
+image: /img/ontario-1979-fall-leaves-14.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
