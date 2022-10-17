@@ -62,7 +62,7 @@ const Footer = () => {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Latest Stories
+                        Naposledy pridané
                       </Link>
                     </li>
                     <li>
