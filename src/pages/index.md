@@ -1,20 +1,26 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Stopy slávy zaviate časom
 image: /img/ontario-1979-fall-leaves-14.jpg
-heading: Stopy slávy zaviate časom
+heading: Predslov
 subheading: " Slovenské osobnosti v Kanade"
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Stopy slávy zaviate časom
+  description: Kniha, ktorú držíte v rukách, sa zrodila z tieňov a duchov dávnych
+    čias, lebo fakty o slovenských osobnostiach z minulosti sa zháňali ťažko a
+    po mnohých zostali len informácie zaznamenané v krátkych článkov, či
+    nekrológoch v slovenských alebo anglických novinách. Spísať pravdivú
+    históriu slovenských osobností v Kanade je dnes veľmi náročné, pretože im v
+    minulosti nebola venovaná systematická pozornosť a dnes už je veľmi ťažko
+    spravodlivo vybrať zo 140 ročnej histórie tých najvplyvnejších Slovákov v
+    tejto krajine.
+description: Hľadanie ľudí, ktorí zohrali pri budovaní slovenskej komunity
+  kľúčovú úlohu a boli z tohto hľadiska skutočnými „osobnosťami“, bolo veľmi
+  ťažké. Pri svojom príchode do Kanady si boli všetci Slováci rovní. Väčšina z
+  nich bola chudobná a z tohto hľadiska boli rovnoprávni, a to spájalo väčšinu
+  nových prisťahovalcov do Kanady od roku 1883 do 90. rokov minulom storočia.
+  Ich hlavným cieľom bolo zabezpečiť sebe a svojej rodine lepší život a
+  budúcnosť. A ich úspech sa meral práve schopnosťou naplniť tento cieľ.
 intro:
   blurbs:
     - image: /img/coffee.png
