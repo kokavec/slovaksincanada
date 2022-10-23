@@ -22,7 +22,7 @@ export default class Personalities extends React.Component {
               padding: "1rem",
             }}
           >
-            Naposledy pridané
+            Slovenské osobnosti v Kanade
           </h1>
         </div>
         <section className="section">
