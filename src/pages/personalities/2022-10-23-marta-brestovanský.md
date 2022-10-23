@@ -6,7 +6,7 @@ description: Marta Brestovanská sa narodila 29. decembra 1937 v Košiciach. Jej
   ako mimoriadny talent prijali na základe výnimky na Vysokú školu výtvarných
   umení v Bratislave. Počas štúdií sa zoznámila so študentom operného spevu
   Alojzom Brestovanským, ktorý sa stal jej celoživotným partnerom.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/marta-brestovanska.jpg
 ---
 ![Marta Brestovanská](/img/marta-brestovanky-2022-09-22-0001.jpg "Marta Brestovanská")
