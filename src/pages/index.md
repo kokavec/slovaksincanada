@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Stopy slávy zaviate časom
 image: /img/ontario-1979-fall-leaves-14.jpg
-heading: Predslov
+heading: Slovenské osobnosti v Kanade
 subheading: " Slovenské osobnosti v Kanade"
 mainpitch:
   title: Stopy slávy zaviate časom
