@@ -10,7 +10,7 @@ export default class Personalities extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/Ontario - 1979 - Fall leaves 25.jpg')`,
+            backgroundImage: `url('/img/background_4.jpg')`, 'background-position': 'center',
           }}
         >
           <h1
