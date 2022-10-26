@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Stopy slávy zaviate časom
-image: /img/home_background.jpg
+image: /img/background_1.jpg
 heading: Slovenské osobnosti v Kanade
 subheading: " Slovenské osobnosti v Kanade"
 mainpitch:
