@@ -2,12 +2,12 @@
 templateKey: blog-post
 title: Pavol Džačko
 description: Pavol Džačko
-featuredpost: true
+featuredpost: false
 featuredimage: /img/pavol_dzacko_small.jpg
 ---
 ![Pavol Džačko](/img/pavol_dzacko_big.jpg "Pavol Džačko")
 
-sa narodil 18. mája 1974 v Bratislave ako najstarší z piatich súrodencov. Keď mal dva roky, rodina sa presťahovala za otcovou prácou do Košíc. Študoval na strednej škole technického zamerania a počítačové programovanie na Technickej univerzite v Košiciach. Po promócii v roku 1997 sa presťahoval do Bratislavy, kde absolvoval vojenskú službu a zároveň začal svoju IT kariéru vo finančnej spoločnosti AXA. V AXA sa Pavol presunul do vývoja IT a neskôr sa stal manažérom.
+Pavol Džačko sa narodil 18. mája 1974 v Bratislave ako najstarší z piatich súrodencov. Keď mal dva roky, rodina sa presťahovala za otcovou prácou do Košíc. Študoval na strednej škole technického zamerania a počítačové programovanie na Technickej univerzite v Košiciach. Po promócii v roku 1997 sa presťahoval do Bratislavy, kde absolvoval vojenskú službu a zároveň začal svoju IT kariéru vo finančnej spoločnosti AXA. V AXA sa Pavol presunul do vývoja IT a neskôr sa stal manažérom.
 
 V roku 2002 požiadal o kanadské vízum na trvalý pobyt, ktoré dostal o necelé dva mesiace. S manželkou prišli do Toronta, kde si rýchlo našiel prácu v sklade. V auguste 2003 začal pracovať pre Bank of Montreal a pracuje tam dodnes. Je aktívnym členom slovenskej komunity v Toronte, pôsobí v predstavenstvách komunitných organizácií vrátane Slovenského domu v Toronte a Kanadského slovenského inštitútu.
 
