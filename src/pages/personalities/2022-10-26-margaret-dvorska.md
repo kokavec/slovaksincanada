@@ -4,6 +4,7 @@ title: Margaret Dvorská
 description: Margaret Dvorská
 featuredpost: true
 featuredimage: /img/margaret_dvorsky_small.jpg
+highlight: true
 ---
 ![Margaret Dvorská](/img/margaret_dvorsky_big.jpg "Margaret Dvorská")
 
