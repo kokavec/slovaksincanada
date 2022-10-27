@@ -1,16 +1,10 @@
 ---
 templateKey: blog-post
 title: Július Behul
-description: >-
-  Július Behul sa narodil 11. januára 1947 v Novom Meste nad Váhom. Jeho rodičmi
-  boli Július Behul a Eva rodená Uherová. Základnú a strednú školu navštevoval
-  vo svojom rodisku. Do kanadského Toronta emigroval v decembri 1968.
-
-
-  V Kanade začal pracovať ako kurič v kotolni v obchodoch Herman Furs. Čoskoro sa presadil ako aranžér výkladov. Po sobáši žil krátko v Hamiltone, kde pracoval ako aranžér výkladov a obchodov pre spoločnosť Reit- mans. Ďalších 20 rokov pracoval ako aranžér výkladov prevažne exkluzívnych odevných obchodov a interiérový dizajnér.
+description: Július Behul
 featuredpost: false
 featuredimage: /img/julius_behul_small.jpg
-tags: []
+highlight: false
 ---
 ![Július Behul](/img/julius_behul_big.jpg "Július Behul")
 

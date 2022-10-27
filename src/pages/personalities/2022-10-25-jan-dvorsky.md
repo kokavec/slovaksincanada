@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Ján Dvorský
 description: " Ján Dvorský"
-featuredpost: true
+featuredpost: false
 featuredimage: /img/jan_dvorsky_small.jpg
 ---
 ![Ján Dvorský](/img/jan_dvorsky_big.jpg "Ján Dvorský")

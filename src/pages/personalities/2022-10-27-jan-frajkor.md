@@ -1,0 +1,18 @@
+---
+templateKey: blog-post
+title: Ján Frajkor
+description: Ján Frajkor
+featuredpost: false
+featuredimage: /img/jan_frajkor_small.jpg
+highlight: true
+---
+![Ján Frajkor](/img/jan_frajkor_big.jpg "Ján Frajkor")
+
+Ján Frajkor sa narodil 8. februára 1934 v Montreale ako syn Márie Onderikovej a Ján Frajkora, ktorí sa vysťahovali zo Slovenska do Kanady z dediny Jusková Voľa neďaleko Prešova. Detstvo strávil v severozápadnom Quebécu obklopený divokou prírodou. Obaja rodičia tam pracovali v rôznych baniach na zlato a iné kovy. George bol vynikajúci žiak a strednú školu úspešne absolvoval v predstihu vo veku 15 rokov. V štúdiu pokračoval v Montreale na Loyola College (dnes Concordia University), kde v roku 1961 promoval
+z angličtiny a ekonómie. V štúdiách pokračoval na McGill University, Carelton University a University of Ottawa. Po promóciách sa zamestnal v tlačovej agentúre Canadian Press.
+Ako reportér pracoval pre redakciu Penticton B.C. Herald a verejnoprávnu televíznu a rozhlasovú stanicu CBC, najväčšiu spravodajskú televíziu. Stal sa vedúcim vysielania spravodajstva CBS News v Québecu a v roku 1972 začal vyučovať žurnalistiku na Carleton Universtiy, kde pôsobil až do svojho odchodu do dôchodku. Po vzniku samostatnej Slovenskej republiky v roku 1993 prednášal žurnalistiku na Univerzite Komenského v Bratislave a zohral významu úlohu pri zakladaní univerzitného Inštitútu kanadských štúdií.
+Jeho rodičia aktívne pôsobili v niekoľkých slovenských organizáciách v Kanade a samotný George sa zapojil do kultúrneho života kanadských Slovákov. Mal iba 2 roky, keď v roku 1936 Zbor 2 Kanadskej slovenskej ligy slávil Deň Milana Rastislava Štefánika a už vtedy vystúpil na pódium a zaspieval slovenskú ľudovú pieseň. Neskôr ako uznávaný novinár sa s veľkým zápalom zúčastňoval života slovenskej komunity v Kanade. V osemdesiatych rokoch od začiatku podporoval Svetový kongres Slovákov a Slovenskú národnú radu v Kanade. Celý život bol nadšeným prívržencom Kanadskej slovenskej ligy. V deväťdesiatych rokoch a v prvých rokoch nového tisícročia pôsobil ako jej tajomník a mal na starosti zaznamenávanie jej aktivít. V rokoch 2004 až 2007 bol jej celoštátnym predsedom. Bol dlhoročným členom jej Zboru 63 a dlhé roky pôsobil ako jeho tajomník. Bol predsedom redakčnej rady týždenníka Kanadský Slovák a napísal preň množstvo článkov zaoberajúcich sa problematikou Slovákov v Kanade. 
+V roku 1991 bol jedným zo zakladateľov siete National Capital FreeNet pre Školu žurnalistiky a televízneho programu, ktorej cieľom bol sprístupnenie nových technológií užívateľom. 
+Keď v osemdesiatych rokoch jeho kolegyňa Margita Volk hľadala niekoho, kto by jej pomohol pri vytváraní televízneho mesačníka s názvom „Slovak Spectrum“, stal sa členom výrobného štábu a napokon tam zotrval až do začiatku nového milénia. Koncom osemdesiatych rokov začal vydávať pre slovenskú komunitu v oblasti Ottawy informačný bulletin Slovotta a v tejto činnosti pokračoval aj po prechode do elektronickej podoby. Kedykoľvek sa v Ottawe chystalo nejaké kultúrne podujatie okamžite sa chopil iniciatívy, aby sa nezabudlo na Slovákov a bola zabezpečená slovenská účasť, ako to bolo bol napríklad pri výzdobe slovenského vianočného stromčeka v Kanadskom múzeu civilizácie. Vždy bol zapáleným ochrancom Slovákov v Kanade i celom svete. Veľmi sa angažoval prostredníctvom internetu v začiatkoch rozvoja Slovenskej republiky. 
+Ján Frajkor žije v Ottawe, v provincii Ontario.
+Stolárik, Mark, Ján Juraj Frajkor : Oslava 80. narodenín, . Kanadský Slovák, 8. február 2014.
