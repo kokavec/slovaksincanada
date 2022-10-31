@@ -1,0 +1,24 @@
+---
+templateKey: blog-post
+title: Milan Popik
+description: Milan Popik
+featuredpost: false
+featuredimage: /img/milan_popik_small.jpg
+highlight: false
+---
+![Milan Popik](/img/milan_popik_big.jpg "Milan Popik")
+
+Milan Popik sa narodil 24.augusta 1947 v Lamači, ktorý je dnes súčasťou Bratislavy. Chodil sem do základnej školy, neskôr v Bratislave absolvoval strednú školu a začal študovať na Elektrotechnickej fakulte Slovenskej vysokej školy technickej. Po invázii vojsk Varšavskej zmluvy do Československa v auguste 1968 emigroval do Kanady. Tu sa cez deň venoval štúdiu na George Brown College a po večeroch pracoval pre káblovú televíznu spoločnosť Delta-Benco-Cascade Cable. V roku 1973 sa stal spoluzakladateľom firmy Triple Crown Electronic a neskôr založil vlastnú firmu Metal-Tronics zameranú na kovovýrobu, ktorá funguje od roku 1978 dodnes.
+
+Na kultúrnom živote kanadských Slovákov sa začal zúčastňovať v roku 1976 v rámci Svetového kongresu Slovákov a v roku 1980 sa stal členom jeho Výboru mládeže. Takisto vstúpil do Kanadskej slovenskej ligy a bol zvolený za predsedu Oddielu mládeže jej 7. zboru. V roku 1982 ho zvolili za podpredsedu Ústrednej správy Ligy a túto funkciu zastával do roku 1990. Jeho záujem o tanec ho v roku 1983 doviedol k založeniu skupiny spoločenských tancov Toronto Slovak Ballroom Dancers. Od svojho založenia až do roku 1998 tancovalo toto zoskupenie na 276 podujatiach v Severnej Amerike. K vrcholným momentom jeho pôsobenia patrí vystúpenie v Epcot Centre na Floride v roku 1990 a dve turné po Slovensku v rokoch 1991 a 1996. Milan Popik patrí k zakladajúcim členom speváckeho zboru Toronto Slovak Singers (1969 - 1998), Slovenskej národnej rady v Kanade (1985) a Slovenského kanadského inštitútu (1995). V roku 1989 pomáhal pri organizácii zhromaždení pred torontskou radnicou a budovou Parlamentu provincie Ontario na podporu ukončenia vlády komunistov v Československu. Prispel do dokumentu „Žiadosti Matice slovenskej“, ktorý bol 10. 12. 1989 predložený Veľvyslanectvu Československej republiky v Ottawe.
+
+V búrlivom období koncom 80. a začiatkom 90. rokov sa stal zakladajúcim členom hnutia Verejnosť proti násiliu (VPN) v Kanade, ktoré podporovalo demokratické snahy Slovákov na Slovensku. V roku 1990 pricestoval na Slovensko ako predstaviteľ Kanadskej slovenskej ligy a Svetového kongresu Slovákov a ini- cioval, aby vedenie VPN vyslalo do Kanady svojho zástupcu s cieľom informovať kanadských Slovákov o ak- tuálnej situácii v ich domovine. Na tento podnet prišiel do Kanady Milan Kňažko, ktorého v Toronte privítalo 1 500 kanadských Slovákov. Milan Popik sa zúčastnil stretnutia Ústredného vysokoškolského výboru pri Domaši a napomáhal pri jeho rozdelení na samostatný Český a samostatný Slovenský výbor.
+
+Vo februári 1990 bol členom delegácie Svetového kongresu Slovákov, ktorá dohodla s kanadským ministrom zahraničných vecí, aby proporčne rozdelila finančné prostriedky určené na výučbu angličtiny ako druhého jazyka medzi Český a Slovenský vysokoškolský výbor. Daroval niekoľko faxov, tlačiarní a počítačov hnutiu VPN a Kresťanskou demokratickému hnutiu na Slovensku. 
+V rokoch 1985 až 1998 zorganizoval pod záštitou Kanadskej slovenskej ligy mnoho podujatí, ako boli Slovenské dni a Folklórne festivaly mládeže. Od deväťdesiatych rokoch zorganizoval pre mnohých umelcov, spevákov, folklórne súbory a mládežnícke spevácke zbory zo Slovenska vystúpenia v Kanade.
+
+Medzi Slovákmi v Kanade existuje dlhoročná tradícia pútí k pamätnému miestu mučeníkov v Mindlande v provincii Ontario, kde sa pri drevenom kríži modlievali za slobodu slovenského ľudu. V roku 1998 bolo treba tento kríž nahradiť a Milan Popik na jeho miesto navrhol a vytvoril mramorový pamätník. V roku 2005 pripravil pod názvom „Vernýsvojmusvedomiu“ knižné vydanie memoárov Eugena Filkorna, ktorý bol pápežským prelátom a zakladateľom Internátu svätého Svorada v Bratislave.
+
+V roku 1998 vstúpil do Rímskokatolíckeho seminára a bol vysvätený za diakona. Slúžil v Ontariu vo Farnosti Svätej rodiny v Boltone, Farnosti svätého Patrika v Schombergu a Farnosti Panny Márie v Nobletone. Spolu s kňazom Paulom Hanckom vybudovali nový Kostol Panny Márie a zorganizovali viacero pútí do Guadalupe v Mexiku a do Svätej zeme. Bol ceremoniárom kardinála Aloysiusa Ambroziča a Thomasa Collinsa. Od roku 2017 je diakonom vo Farnosti svätého Klementa v Etobicoke v provincii Ontario.
+
+Žije v Toronte.
