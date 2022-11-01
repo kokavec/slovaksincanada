@@ -1,0 +1,17 @@
+---
+templateKey: blog-post
+title: Irene Timko
+description: Irene Timko
+featuredpost: false
+featuredimage: /img/irene_timko_small.jpg
+highlight: false
+---
+![Irene Timko](/img/irene_timko_big.jpg "Irene Timko")
+
+Irene Mary (Kominar) Timko sa narodila 23. Júna 1943 v mestečku St. Thomas v provincii Ontario, Rodičia pochádzali zo Slovenska, matka zo Zemplínskej Širokej a otec z obce Kobeliarovo pri Rožňave. Starí otcovia s oboch strán prišli za prácou, ktorú našli v kanadských baniach. Za nimi prišli aj ich potomkovia . Pri príchode
+do Kanady mal jej otec 19 a jej matka 17 rokov. Irene žila na farme spolu so starými rodičmi a doma sa rozprávalo len po slovensky. Po anglicky sa naučila v škole. Vyštudovala učiteľstvo, ktorému sa venovala celý svoj profesionálny život. V jej rodine bol folklór každodennou súčasťou života. Každú nedeľu rodičia počúvali špeciálny slovenský rozhlasový program. Druhý starý otec zase v početnej komunite slovenských prisťahovalcov pôsobil ako režisér divadelného spolku. Windsorská slovenská komunita bola v Ontariu veľmi aktívna. Jej členovia sa stretávali a navzájom si pomáhalii, zakladali rôzne spolky, či dokonca vlastné farnosti. V duchu slovenských tradícií usporadúvali „Slovenské dni”, pikniky, zábavy, či svadby. „Na týchto udalostiach sa pravidelne zúčastňovala celá naša rodina. Bol to jediný život, ktorý sme poznali,“ vraví Irene.
+Svoj prvý tanečný súbor založila v roku 1958. Volal sa Slovak Dancers of Windsor. V nasledujúcich rokoch vystupovali pri príležitosti slovenských i kanadských sviatkov a na mnohých festivaloch. Zostavovala choreografie odpozorovaním od iných súborov alebo podľa spomienok rodičov a starých rodičov. Tanečný súbor sa rozpadol v roku 1964.
+K ľudovému umeniu sa vrátila v roku 1973. Jej otec bol spoluzakladateľom súboru Rozmarín, v ktorom tancovala jej najmladšia sestra a neskôr aj jej dcéra. Timko založila v roku 1983 Domovina Slovak Dancers. Najprv tancovali v krojoch Slovákov z Vojvodiny. Postupne v ňom pôsobili mnohí choreografi a tancovali sa slovenské tance v choreografii Pavla Širáka z košického súboru Železiar. Súbor Domovina a jeho vedúca Irene sa stali známymi v celej Kanade, USA a na Slovensku, kde súbor mnoho krát vystupoval aj na Podpolianskych slávnostiach v Detve.
+Irene Timko sa okrem folklóru aktívne zapája do činnosti v mnohých multikultúrnych spolkoch a združeniach kanadských Slovákov. Stála na čele úradu Kanadskej slovenskej ligy, bola tajomníčkou a neskôr aj kontrolórkou Nadácie slovenského kultúrneho dedičstva a Rady mládeže (Slovák Heritage and Youth Council), v rokoch 1990 až 2002 pôsobila v predstavenstve Multikultúrnej rady (Multicultural Council) či ako predsedníčka Kolotoča národov (Carrousel of Nations) - výboru, ktorý každoročne organizuje viacero multikultúrnych podujatí. Zastávala aj rôzne funkcie v Slovenskej Kanadskej národnej rade a dlhoročnou riaditeľkou v domove seniorov Slovak Villa . V roku 2003 Irene Timko získala Kráľovninu zlatú jubilejnú medailu za svoje dlhoročné aktivity v oblasti multikultúrnosti a, slovami členky parlamentu provincie Ontario, ktorá jej cenu udelila „za nekonečné hodiny strávené šírením slovenskej kultúry a dedičstva v Severnej Amerike a v Európe“.
+Žije vo Windsor, Ontario.
+Lucia Fajnerova, Irene Timko zviditeľňuje Slovensko, Kanadský Slovák, 14. jún 2015, st. 4
