@@ -4,7 +4,7 @@ title: Dušan Tóth
 description: Dušan Tóth
 featuredpost: false
 featuredimage: /img/dusan_toth_small.jpg
-highlight: true
+highlight: false
 ---
 ![Dušan Tóth](/img/dusan_toth_big.jpg "Dušan Tóth")
 

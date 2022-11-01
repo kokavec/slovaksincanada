@@ -4,7 +4,7 @@ title: Pavol Džačko
 description: Pavol Džačko
 featuredpost: false
 featuredimage: /img/pavol_dzacko_small.jpg
-highlight: true
+highlight: false
 ---
 ![Pavol Džačko](/img/pavol_dzacko_big.jpg "Pavol Džačko")
 

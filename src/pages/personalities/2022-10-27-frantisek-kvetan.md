@@ -4,7 +4,7 @@ title: František Kvetaň
 description: František Kvetaň
 featuredpost: false
 featuredimage: /img/frantisek_kvetan_small.jpg
-highlight: false
+highlight: true
 ---
 ![František Kvetaň](/img/frantisek_kvetan_big.jpg "František Kvetaň")
 

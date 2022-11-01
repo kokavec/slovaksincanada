@@ -4,7 +4,7 @@ title: Ján Kopčok
 description: Ján Kopčok
 featuredpost: false
 featuredimage: /img/jan_kopcok_small.jpg
-highlight: false
+highlight: true
 ---
 ![Ján Kopčok](/img/jan_kopcok_big.jpg "Ján Kopčok")
 

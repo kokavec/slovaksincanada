@@ -4,7 +4,7 @@ title: Ján Frajkor
 description: Ján Frajkor
 featuredpost: false
 featuredimage: /img/jan_frajkor_small.jpg
-highlight: true
+highlight: false
 ---
 ![Ján Frajkor](/img/jan_frajkor_big.jpg "Ján Frajkor")
 

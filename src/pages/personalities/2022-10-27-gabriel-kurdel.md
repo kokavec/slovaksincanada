@@ -4,7 +4,7 @@ title: Gabriel Kurdel
 description: Gabriel Kurdel
 featuredpost: false
 featuredimage: /img/gabriel_kurdel_small.jpg
-highlight: false
+highlight: true
 ---
 ![Gabriel Kurdel](/img/gabriel_kurdel_big.jpg "Gabriel Kurdel")
 
