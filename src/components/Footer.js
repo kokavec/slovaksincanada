@@ -22,7 +22,7 @@ const Footer = () => {
                   style={{ height: "10em" }}
                 />
               </div>
-              <div className="column is-4">
+              <div className="column is-2">
                 <section>
                   <ul className="menu-list">
                     <li>
@@ -43,7 +43,7 @@ const Footer = () => {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4">
+              <div className="column is-2">
                 <div className="content has-text-centered">
                   <img
                     src={insituteLogo}
@@ -52,7 +52,10 @@ const Footer = () => {
                   />
                 </div>
               </div>
-              <div className="column is-4 social">
+              <div className="column is-2">
+                <p>Copyright © 2022 by Ondrej Miháľ omihal@slovak.com</p>
+              </div>
+              <div className="column is-2 social">
                 <a title="facebook" href="https://www.facebook.com/omihal">
                   <img
                     src={facebook}
@@ -60,14 +63,6 @@ const Footer = () => {
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                {/* <a title="twitter" href="https://twitter.com">
-                  <img
-                    className="fas fa-lg"
-                    src={twitter}
-                    alt="Twitter"
-                    style={{ width: "1em", height: "1em" }}
-                  />
-                </a> */}
                 <a title="instagram" href="https://www.instagram.com/ondrej.mihal/">
                   <img
                     src={instagram}
@@ -75,13 +70,6 @@ const Footer = () => {
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                {/* <a title="vimeo" href="https://vimeo.com">
-                  <img
-                    src={vimeo}
-                    alt="Vimeo"
-                    style={{ width: "1em", height: "1em" }}
-                  />
-                </a> */}
               </div>
             </div>
           </div>

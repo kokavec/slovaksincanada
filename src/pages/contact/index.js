@@ -39,17 +39,20 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
-              <form
+              <h1>Kontakt</h1>
+              <p>Všetky práva vyhradené. Žiadna časť tejto publikácie, ani iné verzie týchto informácií, či už v tlačenej alebo elektronickej forme, obsahujúce text, fotografie a logá, nemôžu byť reprodukované alebo ďalej šírené v akejkoľvek forme, či už elektronicky, mechanicky fotokopírované, skenované a ukladané do databázových archivovacích pamäťových systémov s cieľom ďaľšieho využívania, alebo iným spôsobom používané bez predchádzajúceho písomného povolenia vydavateľa a držiteľov autorských práv.</p>
+              <p>Copyright © 2022 by Ondrej Miháľ omihal@slovak.com</p>
+              <p>Slovak Canadian Institute 10 Leland Avenue Toronto, Ontario Canada, M8Z 2X5</p>
+              {/* <form
                 name="contact"
                 method="post"
                 action="/contact/thanks/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
-              >
+              > */}
                 {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-                <input type="hidden" name="form-name" value="contact" />
+                {/* <input type="hidden" name="form-name" value="contact" />
                 <div hidden>
                   <label>
                     Don’t fill this out:{" "}
@@ -105,7 +108,7 @@ export default class Index extends React.Component {
                     Send
                   </button>
                 </div>
-              </form>
+              </form> */}
             </div>
           </div>
         </section>
