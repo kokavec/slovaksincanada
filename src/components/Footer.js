@@ -40,6 +40,11 @@ const Footer = () => {
                         Kontakt
                       </Link>
                     </li>
+                    <li>
+                      <Link className="navbar-item" to="/presentations">
+                        Prezentácie
+                      </Link>
+                    </li>
                   </ul>
                 </section>
               </div>
