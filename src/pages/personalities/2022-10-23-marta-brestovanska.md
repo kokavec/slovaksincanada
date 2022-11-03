@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Marta Brestovanská
 description: Marta Brestovanská
-highlight: true
+highlight: false
 featuredpost: false
 featuredimage: /img/marta_brestovanky_small.jpg
 ---
