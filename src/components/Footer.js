@@ -31,18 +31,23 @@ const Footer = () => {
                       </Link>
                     </li>
                     <li>
+                      <Link className="navbar-item" to="/about">
+                        O knihe
+                      </Link>
+                    </li>
+                    <li>
                       <Link className="navbar-item" to="/blog">
                         Osobnosti
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact">
-                        Kontakt
+                      <Link className="navbar-item" to="/presentations">
+                        Prezentácie
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/presentations">
-                        Prezentácie
+                      <Link className="navbar-item" to="/contact">
+                        Kontakt
                       </Link>
                     </li>
                   </ul>

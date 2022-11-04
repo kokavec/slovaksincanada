@@ -33,11 +33,11 @@ const Navbar = () => {
                 to a ul for accessibilty purposes, would like to see a css
                 re-write that makes this unneccesary.
              */}
-            {/* <li className="navbar-item" style={{padding: "0px"}}>
+            <li className="navbar-item" style={{padding: "0px"}}>
               <Link className="navbar-item" to="/about">
-                About
+                O knihe
               </Link>
-            </li> */}
+            </li>
             {/* <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/products">
               Products
@@ -49,13 +49,13 @@ const Navbar = () => {
             </Link>
             </li>
             <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/contact">
-              Kontakt
+            <Link className="navbar-item" to="/presentations">
+              Prezentácie
             </Link>
             </li>
             <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/presentations">
-              Prezentácie
+            <Link className="navbar-item" to="/contact">
+              Kontakt
             </Link>
             </li>
             {/* <li className="navbar-item" style={{padding: "0px"}}>
