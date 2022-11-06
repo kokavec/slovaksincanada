@@ -56,6 +56,13 @@ export default class Presentations extends React.Component {
                 src="/img/prezentacia_zuberec.jpeg"
                 alt="Zuberec"
               />
+              <h3>
+                23. novembra 2022 o 17:00h, V zborovej sieni farského úradu, Farský úrad Slovenského ev. a.v. cirkevného zboru v Silbaši, ulica Masarykova 59, Silbaš
+              </h3>
+              <img
+                src="/img/prezentacia_silbas.jpg"
+                alt="Silbaš"
+              />
               <h2>Už uskutočnené</h2>
               <h3>
                 Hložany 26. októbra 2022
