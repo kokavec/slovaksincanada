@@ -2,10 +2,11 @@
 templateKey: blog-post
 title: Dušan Dorič
 description: Dušan Dorič
+highlight: true
 featuredpost: false
 featuredimage: /img/dusan_doric_small.jpg
 ---
-![Pavol Džačko](/img/dusan_doric_big.jpg "Pavol Džačko")
+![Dušan Dorič](/img/dusan_doric_big.jpg "Dušan Dorič")
 
 Dušan Dorič sa narodil 24. júla 1955 v Michalovciach, kde absolvoval prvých šesť rokov základnej školy. V Kanade žil jeho starý otec, ktorý jeho rodičov presvedčil, aby sa celá rodina v roku 1968 legálne vysťahovali do Kanady. Usadili sa v Toronte, kde Dušan pokračoval v štúdiu, ktoré napokon ukončil ako počítačový programátor na Univerzite Ryerson. Po promócii v tejto oblasti aj pracoval, ale čoskoro sa začal venovať svojej celoživotnej vášni - zvukovej stránke v zábavnom priemysle. V Sound Dymax Inc in Mississauga v Mississauge, kde pracoval 40 rokov.
 
