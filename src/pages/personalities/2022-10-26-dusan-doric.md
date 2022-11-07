@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Dušan Dorič
 description: Dušan Dorič
-highlight: true
+highlight: false
 featuredpost: false
 featuredimage: /img/dusan_doric_small.jpg
 ---
