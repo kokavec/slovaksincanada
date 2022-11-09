@@ -68,8 +68,8 @@ export default class Presentations extends React.Component {
                 Hložany 26. októbra 2022
               </h3>
               <Video 
-                videoSrcURL="https://www.youtube.com/embed/sRkFomI8mo4?start=1"
-                videoTitle="Slovak Canadian Personalities"
+                videoSrcURL="https://www.youtube.com/embed/yE9nI2n_wWQ"
+                videoTitle="Hlozany prezentation"
               />
             </div>
           </div>
