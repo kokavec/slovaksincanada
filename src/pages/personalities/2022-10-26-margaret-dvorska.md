@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: Margaret Dvorská
 description: Margaret Dvorská
+highlight: true
 featuredpost: true
 featuredimage: /img/margaret_dvorsky_small.jpg
-highlight: true
 ---
 ![Margaret Dvorská](/img/margaret_dvorsky_big.jpg "Margaret Dvorská")
 
@@ -30,6 +30,6 @@ Za svoju prácu získala vyznamenanie „Vynikajúci občan” od starostu Mont
 
 Zomrela 19. marca 2018 a je pochovaná na katolíckom cintoríne Holy Cross Cemetery v Thornhill v provincii Ontario. 
 
-https://www.kanadskyslovak.ca/index.php/sk/toronto-2/podujatia-v-toronte/ 815-zbohom-margie-dvorska 
+https://www.kanadskyslovak.ca/index.php/sk/toronto-2/podujatia-v-toronte/815-zbohom-margie-dvorska 
 
 Behul, Julius, *Margaret Dvorska – 1922 – 2018*, Kanadský Slovák, 31, marec 2018, st. 4 Čarnogurský, Paľo, *Margaret Dvorská 75-ročná*, Kanadský Slovák, 8. november 2008, st. 8
