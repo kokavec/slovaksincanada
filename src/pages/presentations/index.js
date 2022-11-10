@@ -29,13 +29,6 @@ export default class Presentations extends React.Component {
           <div className="container">
             <div className="content">              
               <h3>
-                10. novembra 2022 o 16:30h Krajská knižnica v Žiline
-              </h3>
-              <img
-                src="/img/prezentacia_zilina.jpeg"
-                alt="Žilina"
-              />
-              <h3>
                 15. novembra 2022 o 17:00h, V Prednáškovej sále  Univezitnej knižnice v Bratislave Ventúrska 11, Bratislava
               </h3>
               <img
@@ -65,11 +58,22 @@ export default class Presentations extends React.Component {
               />
               <h2>Už uskutočnené</h2>
               <h3>
-                Hložany 26. októbra 2022
+                26. októbra 2022, Hložany, Srbsko
               </h3>
               <Video 
                 videoSrcURL="https://www.youtube.com/embed/yE9nI2n_wWQ"
                 videoTitle="Hlozany prezentation"
+              />
+              <h3>
+                10. novembra 2022 o 16:30h Krajská knižnica v Žiline, Slovensko
+              </h3>
+              <img
+                src="/img/prezentacia_zilina.jpeg"
+                alt="Žilina"
+              />
+              <Video 
+                videoSrcURL="https://www.youtube.com/embed/JbqBtZ53Gs4"
+                videoTitle="Zilina prezentation"
               />
             </div>
           </div>
