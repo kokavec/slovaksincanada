@@ -29,20 +29,6 @@ export default class Presentations extends React.Component {
           <div className="container">
             <div className="content">              
               <h3>
-                15. novembra 2022 o 17:00h, V Prednáškovej sále  Univezitnej knižnice v Bratislave Ventúrska 11, Bratislava
-              </h3>
-              <img
-                src="/img/prezentacia_bratislava.jpeg"
-                alt="Bratislava"
-              />
-              <h3>
-                16. novembra 2022 o 11:00h, Univezitná knižnica Prešovskej univerzity v Prešove ul. 17. novembra 1, Prešov
-              </h3>
-              <img
-                src="/img/prezentacia_presov.jpeg"
-                alt="Prešov"
-              />
-              <h3>
                 20. novembra 2022 o 15:00h, KD Zuberec
               </h3>
               <img
@@ -74,6 +60,20 @@ export default class Presentations extends React.Component {
               <Video 
                 videoSrcURL="https://www.youtube.com/embed/JbqBtZ53Gs4"
                 videoTitle="Zilina prezentation"
+              />
+              <h3>
+                15. novembra 2022 o 17:00h, V Prednáškovej sále  Univezitnej knižnice v Bratislave Ventúrska 11, Bratislava
+              </h3>
+              <img
+                src="/img/prezentacia_bratislava.jpeg"
+                alt="Bratislava"
+              />
+              <h3>
+                16. novembra 2022 o 11:00h, Univezitná knižnica Prešovskej univerzity v Prešove ul. 17. novembra 1, Prešov
+              </h3>
+              <img
+                src="/img/prezentacia_presov.jpeg"
+                alt="Prešov"
               />
             </div>
           </div>
