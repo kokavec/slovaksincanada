@@ -27,14 +27,7 @@ export default class Presentations extends React.Component {
         </div>
         <section className="section">
           <div className="container">
-            <div className="content">              
-              <h3>
-                20. novembra 2022 o 15:00h, KD Zuberec
-              </h3>
-              <img
-                src="/img/prezentacia_zuberec.jpeg"
-                alt="Zuberec"
-              />
+            <div className="content">
               <h3>
                 23. novembra 2022 o 17:00h, V zborovej sieni farského úradu, Farský úrad Slovenského ev. a.v. cirkevného zboru v Silbaši, ulica Masarykova 59, Silbaš
               </h3>
@@ -74,6 +67,17 @@ export default class Presentations extends React.Component {
               <img
                 src="/img/prezentacia_presov.jpeg"
                 alt="Prešov"
+              />
+              <h3>
+                20. novembra 2022 o 15:00h, KD Zuberec
+              </h3>
+              <img
+                src="/img/prezentacia_zuberec.jpeg"
+                alt="Zuberec"
+              />
+              <Video 
+                videoSrcURL="https://www.youtube.com/embed/THxdI528ANo"
+                videoTitle="Zuberec prvi priekopnici"
               />
             </div>
           </div>
