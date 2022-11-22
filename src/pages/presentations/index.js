@@ -29,10 +29,24 @@ export default class Presentations extends React.Component {
           <div className="container">
             <div className="content">
               <h3>
-                23. novembra 2022 o 17:00h, V zborovej sieni farského úradu, Farský úrad Slovenského ev. a.v. cirkevného zboru v Silbaši, ulica Masarykova 59, Silbaš
+                23. novembra 2022 o 17:00h, V zborovej sieni farského úradu, Farský úrad Slovenského ev. a.v. cirkevného zboru v Silbaši, ulica Masarykova 59, Silbaš, Srbsko
               </h3>
               <img
                 src="/img/prezentacia_silbas.jpg"
+                alt="Silbaš"
+              />
+              <h3>
+                28. novembra 2022 o 18:30h, V sieni Spolku petrovských žien, ulica Maršala Tita 2, Báčsky Petrovec, Srbsko
+              </h3>
+              <img
+                src="/img/prezentacia_bacsky_petrovec.jpeg"
+                alt="Báčsky Petrovec"
+              />
+              <h3>
+                29. novembra 2022 o 19:00h, V malej sieni SKC Pavel Jozef Šafárik, ulica Vuka Karadžića 2/a Novi Sad, Srbsko
+              </h3>
+              <img
+                src="/img/prezentacia_novy_sad.jpeg"
                 alt="Silbaš"
               />
               <h2>Už uskutočnené</h2>
@@ -67,6 +81,10 @@ export default class Presentations extends React.Component {
               <img
                 src="/img/prezentacia_presov.jpeg"
                 alt="Prešov"
+              />
+              <Video 
+                videoSrcURL="https://www.youtube.com/embed/PkrTejtwyEs"
+                videoTitle="Presov"
               />
               <h3>
                 20. novembra 2022 o 15:00h, KD Zuberec
