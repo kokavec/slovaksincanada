@@ -46,7 +46,7 @@ export default class Presentations extends React.Component {
                 29. novembra 2022 o 19:00h, V malej sieni SKC Pavel Jozef Šafárik, ulica Vuka Karadžića 2/a Novi Sad, Srbsko
               </h3>
               <img
-                src="/img/prezentacia_novy_sad.jpeg"
+                src="/img/prezentacia_novy_sad_1.jpeg"
                 alt="Silbaš"
               />
               <h2>Už uskutočnené</h2>
