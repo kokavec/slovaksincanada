@@ -39,7 +39,7 @@ export default class Presentations extends React.Component {
                 28. novembra 2022 o 18:30h, V sieni Spolku petrovských žien, ulica Maršala Tita 2, Báčsky Petrovec, Srbsko
               </h3>
               <img
-                src="/img/prezentacia_bacsky_petrovec.jpeg"
+                src="/img/prezentacia_bacsky_petrovec_1.jpeg"
                 alt="Báčsky Petrovec"
               />
               <h3>
