@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
+import Video from "../components/Video";
 import Content, { HTMLContent } from "../components/Content";
 
 // eslint-disable-next-line
@@ -18,6 +19,10 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                 {title}
               </h2>
               <PageContent className="content" content={content} />
+              <Video 
+                videoSrcURL="https://www.youtube.com/embed/mO57HZm0No4"
+                videoTitle="Slovak Canadian Personalities"
+              />
             </div>
           </div>
         </div>

@@ -28,27 +28,6 @@ export default class Presentations extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h3>
-                23. novembra 2022 o 17:00h, V zborovej sieni farského úradu, Farský úrad Slovenského ev. a.v. cirkevného zboru v Silbaši, ulica Masarykova 59, Silbaš, Srbsko
-              </h3>
-              <img
-                src="/img/prezentacia_silbas.jpg"
-                alt="Silbaš"
-              />
-              <h3>
-                28. novembra 2022 o 18:30h, V sieni Spolku petrovských žien, ulica Maršala Tita 2, Báčsky Petrovec, Srbsko
-              </h3>
-              <img
-                src="/img/prezentacia_bacsky_petrovec_1.jpeg"
-                alt="Báčsky Petrovec"
-              />
-              <h3>
-                29. novembra 2022 o 19:00h, V malej sieni SKC Pavel Jozef Šafárik, ulica Vuka Karadžića 2/a Novi Sad, Srbsko
-              </h3>
-              <img
-                src="/img/prezentacia_novy_sad_1.jpeg"
-                alt="Silbaš"
-              />
               <h2>Už uskutočnené</h2>
               <h3>
                 26. októbra 2022, Hložany, Srbsko
@@ -96,6 +75,39 @@ export default class Presentations extends React.Component {
               <Video 
                 videoSrcURL="https://www.youtube.com/embed/THxdI528ANo"
                 videoTitle="Zuberec prvi priekopnici"
+              />
+              <h3>
+                23. novembra 2022 o 17:00h, V zborovej sieni farského úradu, Farský úrad Slovenského ev. a.v. cirkevného zboru v Silbaši, ulica Masarykova 59, Silbaš, Srbsko
+              </h3>
+              <img
+                src="/img/prezentacia_silbas.jpg"
+                alt="Silbaš"
+              />
+              <Video 
+                videoSrcURL="https://www.youtube.com/embed/kBdEcbo4JbE"
+                videoTitle="Silbaš"
+              />
+              <h3>
+                28. novembra 2022 o 18:30h, V sieni Spolku petrovských žien, ulica Maršala Tita 2, Báčsky Petrovec, Srbsko
+              </h3>
+              <img
+                src="/img/prezentacia_bacsky_petrovec_1.jpeg"
+                alt="Báčsky Petrovec"
+              />
+              <Video 
+                videoSrcURL="https://www.youtube.com/embed/OAcGQ0FgmCE"
+                videoTitle="Báčsky Petrovec"
+              />
+              <h3>
+                29. novembra 2022 o 19:00h, V malej sieni SKC Pavel Jozef Šafárik, ulica Vuka Karadžića 2/a Novi Sad, Srbsko
+              </h3>
+              <img
+                src="/img/prezentacia_novy_sad_1.jpeg"
+                alt="Nový Sad"
+              />
+              <Video 
+                videoSrcURL="https://www.youtube.com/embed/eaVlvbz0h-Q"
+                videoTitle="Nový Sad"
               />
             </div>
           </div>

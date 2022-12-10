@@ -32,7 +32,7 @@ export const IndexPageTemplate = ({
                 <div className="content">
                   <div className="content">
                     <Video 
-                      videoSrcURL="https://www.youtube.com/embed/mO57HZm0No4"
+                      videoSrcURL="https://www.youtube.com/embed/mmApfcqtJt0"
                       videoTitle="Slovak Canadian Personalities"
                     />
                     {/* <div className="tile">
